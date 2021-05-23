@@ -1,0 +1,27 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/blogging",
+        "prod_uri":"mysql://root:@localhost/blogging",
+        "fb_url":"https://facebook.com/gakblogging",
+        "in_url":"https://instagram.com/gakblogging",
+        "tw_url":"https://twitter.com/gakblogging",
+        "blog_name":"GAK Blogging",
+        "tag_line":"My perceptions and my thougths",
+        "gmail_user":"mailid",
+        "gmail_password":"smile",
+        "no_of_posts":2,
+        "login_image":"pic3.jpg",
+        "admin_user":"Arun",
+        "admin_password":"kumar",
+        "upload_location":"C:\\Users\\arunk\\Desktop\\blog\\static\\assets\\img"
+
+
+    }
+
+
+
+
+
+}
